@@ -1,0 +1,12 @@
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/bin/Debug/netcoreapp2.1/CA.deps.json
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/bin/Debug/netcoreapp2.1/CA.dll
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/bin/Debug/netcoreapp2.1/CA.pdb
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/bin/Debug/netcoreapp2.1/Utility.dll
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/bin/Debug/netcoreapp2.1/Utility.pdb
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/obj/Debug/netcoreapp2.1/CA.csprojAssemblyReference.cache
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/obj/Debug/netcoreapp2.1/CA.csproj.CoreCompileInputs.cache
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/obj/Debug/netcoreapp2.1/CA.AssemblyInfoInputs.cache
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/obj/Debug/netcoreapp2.1/CA.AssemblyInfo.cs
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/obj/Debug/netcoreapp2.1/CA.csproj.CopyComplete
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/obj/Debug/netcoreapp2.1/CA.dll
+/Users/bubble/Desktop/programming/revature/BankApplication/CheckingAccount/obj/Debug/netcoreapp2.1/CA.pdb

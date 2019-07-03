@@ -1,0 +1,12 @@
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/bin/Debug/netcoreapp2.1/BA.deps.json
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/bin/Debug/netcoreapp2.1/BA.dll
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/bin/Debug/netcoreapp2.1/BA.pdb
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/bin/Debug/netcoreapp2.1/Utility.dll
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/bin/Debug/netcoreapp2.1/Utility.pdb
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/obj/Debug/netcoreapp2.1/BA.csprojAssemblyReference.cache
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/obj/Debug/netcoreapp2.1/BA.csproj.CoreCompileInputs.cache
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/obj/Debug/netcoreapp2.1/BA.AssemblyInfoInputs.cache
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/obj/Debug/netcoreapp2.1/BA.AssemblyInfo.cs
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/obj/Debug/netcoreapp2.1/BA.csproj.CopyComplete
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/obj/Debug/netcoreapp2.1/BA.dll
+/Users/bubble/Desktop/programming/revature/BankApplication/BusinessAccount/obj/Debug/netcoreapp2.1/BA.pdb

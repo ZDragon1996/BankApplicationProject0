@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{55735AA4-1131-495A-ABF9-0A7ECE93C648}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/AccountDAL.cs">
+    <Files>
+      <File FileName="FrontEnd/Program.cs" Line="313" Column="9" />
+      <File FileName="BusinessLayer/AccountBL.cs" Line="40" Column="1" />
+      <File FileName="Entities/Account_Entities/CheckingAccount.cs" Line="56" Column="42" />
+      <File FileName="Entities/Account_Entities/BusinessAccount.cs" Line="1" Column="1" />
+      <File FileName="BusinessLayer/CustomerBL.cs" Line="1" Column="1" />
+      <File FileName="UnitTest1/UnitTest1.cs" Line="14" Column="1" />
+      <File FileName="DAL/AccountDAL.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankApplication" expanded="True">
+            <Node name="BusinessLayer" expanded="True" />
+            <Node name="DAL" expanded="True">
+              <Node name="AccountDAL.cs" selected="True" />
+            </Node>
+            <Node name="Entities" expanded="True">
+              <Node name="Account_Entities" expanded="True" />
+              <Node name="BusinessLayer_interfaces" expanded="True" />
+              <Node name="Customer_interfaces" expanded="True" />
+              <Node name="DAL_interfaces" expanded="True" />
+            </Node>
+            <Node name="FrontEnd" expanded="True" />
+            <Node name="UnitTest1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BankApplication" expanded="True">
+            <Node name="UnitTest1" expanded="True">
+              <Node name="UnitTest1" expanded="True">
+                <Node name="UnitTest1" expanded="True">
+                  <Node name="DepositAndWithdrawTest" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FrontEnd PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

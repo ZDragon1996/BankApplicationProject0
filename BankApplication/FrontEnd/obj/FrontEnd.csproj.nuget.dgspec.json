@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bubble/Desktop/programming/revature/BankApplication/FrontEnd/FrontEnd.csproj": {}
+  },
+  "projects": {
+    "/Users/bubble/Desktop/programming/revature/BankApplication/BusinessLayer/BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bubble/Desktop/programming/revature/BankApplication/BusinessLayer/BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "/Users/bubble/Desktop/programming/revature/BankApplication/BusinessLayer/BusinessLayer.csproj",
+        "packagesPath": "/Users/bubble/.nuget/packages/",
+        "outputPath": "/Users/bubble/Desktop/programming/revature/BankApplication/BusinessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bubble/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/bubble/Desktop/programming/revature/BankApplication/DAL/DAL.csproj": {
+                "projectPath": "/Users/bubble/Desktop/programming/revature/BankApplication/DAL/DAL.csproj"
+              },
+              "/Users/bubble/Desktop/programming/revature/BankApplication/Entities/Entities.csproj": {
+                "projectPath": "/Users/bubble/Desktop/programming/revature/BankApplication/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/bubble/Desktop/programming/revature/BankApplication/DAL/DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bubble/Desktop/programming/revature/BankApplication/DAL/DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "/Users/bubble/Desktop/programming/revature/BankApplication/DAL/DAL.csproj",
+        "packagesPath": "/Users/bubble/.nuget/packages/",
+        "outputPath": "/Users/bubble/Desktop/programming/revature/BankApplication/DAL/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bubble/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/bubble/Desktop/programming/revature/BankApplication/Entities/Entities.csproj": {
+                "projectPath": "/Users/bubble/Desktop/programming/revature/BankApplication/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/bubble/Desktop/programming/revature/BankApplication/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bubble/Desktop/programming/revature/BankApplication/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/bubble/Desktop/programming/revature/BankApplication/Entities/Entities.csproj",
+        "packagesPath": "/Users/bubble/.nuget/packages/",
+        "outputPath": "/Users/bubble/Desktop/programming/revature/BankApplication/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bubble/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/bubble/Desktop/programming/revature/BankApplication/FrontEnd/FrontEnd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bubble/Desktop/programming/revature/BankApplication/FrontEnd/FrontEnd.csproj",
+        "projectName": "FrontEnd",
+        "projectPath": "/Users/bubble/Desktop/programming/revature/BankApplication/FrontEnd/FrontEnd.csproj",
+        "packagesPath": "/Users/bubble/.nuget/packages/",
+        "outputPath": "/Users/bubble/Desktop/programming/revature/BankApplication/FrontEnd/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bubble/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/bubble/Desktop/programming/revature/BankApplication/BusinessLayer/BusinessLayer.csproj": {
+                "projectPath": "/Users/bubble/Desktop/programming/revature/BankApplication/BusinessLayer/BusinessLayer.csproj"
+              },
+              "/Users/bubble/Desktop/programming/revature/BankApplication/Entities/Entities.csproj": {
+                "projectPath": "/Users/bubble/Desktop/programming/revature/BankApplication/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
